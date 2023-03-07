@@ -1,4 +1,4 @@
 # Portafolio-SQL
-[![Getty-Images-174616627-5769ec8e5f9b58346a84bfbf.webp](https://i.postimg.cc/J0ySqBGM/Getty-Images-174616627-5769ec8e5f9b58346a84bfbf.webp)](https://postimg.cc/m1sdZkY5)
+[![197587483-005d0daf-d25b-4a84-92d3-e442fb837acc.png](https://i.postimg.cc/xd07ZZcs/197587483-005d0daf-d25b-4a84-92d3-e442fb837acc.png)](https://postimg.cc/XrzQGQKF)
 
 Este repositorio está dedicado a proyectos de análisis de datos utilizando lenguaje SQL.
